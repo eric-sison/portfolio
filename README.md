@@ -6,7 +6,7 @@ This is the codebase for my personal portfolio — a place where I showcase my p
 
 ## Live Demo
 
-Check it out here 👉 [ericsison.dev](https://ericsison.dev)
+Check it out here 👉 [ericsison.dev](https://www.ericsison.dev)
 
 ## Tech Stack
 
